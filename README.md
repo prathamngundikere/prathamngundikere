@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I am Android Developer, making best Interactive Apps with with amazing UI.<br>
+
 🔭 I’m currently working on Meals and Student Attendance Management App.
+
 🌱 I’m currently learning Advanced topics in Android Development.
+
 👯 I’m looking to collaborate on any topic you are intrested in.
+
 💬 Ask me about anything related to Android Development.
+
 📫 How to reach me: DM me through Instagram, link down below.
 
 
