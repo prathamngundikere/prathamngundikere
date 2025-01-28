@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋
 I am Android Developer, making best Interactive Apps with with amazing UI.<br>
-🔭 I’m currently working on Meals and Student Attendance Management App.<br>
-🌱 I’m currently learning Advanced topics in Android Development.<br>
-👯 I’m looking to collaborate on any topic you are intrested in.<br>
-💬 Ask me about anything related to Android Development.<br>
-📫 How to reach me: DM me through Instagram, link down below.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prathamngundikere?igsh=Z3E5ZTNxOGxoZ28=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamngundikere/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/prathamng?t=IN1JcGFCc-4PWQkFSTKiOA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@prathamngundikere?si=X5CQBQyWeVeNP8aV) 
